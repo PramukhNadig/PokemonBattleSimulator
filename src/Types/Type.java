@@ -1,6 +1,7 @@
 package Types;
 
-public enum Types {
+public enum Type {
+    NONE,
     NORMAL,
     FIRE,
     WATER,
